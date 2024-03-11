@@ -103,7 +103,7 @@ def zad_3(prawd, tekst):
     srednia_długosc_2 = ile_znakow_2/ile_spacji_2
     print(f"Liczba wyrazów: {ile_znakow_2}, liczba spacji: {ile_spacji_2}")
     print(f"Średnia długość słów w tekscie: {srednia_długosc_2}")
-
+    print(belkot)
     print(srednia_dlugosc(belkot))
     print(srednia_dlugosc(tekst))
 
@@ -208,10 +208,10 @@ if __name__ == '__main__':
     plik_in = str(wejscie[0])
     wielkosc = int(wejscie[1])
     plik_out = str(wejscie[2])
+    print(plik_in)
 
-
-    #zad_1()
+    zad_1()
     prawd, tekst = zad_2(plik_in)
-    #zad_3(prawd, tekst)
-    #zad_4(prawd, tekst)
+    zad_3(prawd, tekst)
+    zad_4(prawd, tekst)
     zad_5(tekst, plik_out, wielkosc)
