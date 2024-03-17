@@ -1,0 +1,46 @@
+html, body, p { padding: 0; margin: 0;}
+
+
+* {box-sizing: border-box;}
+
+* {font-size: 16px; font-family: Arial; font-weight: normal; text-decoration: none; color: black}
+
+header {padding:30px; display: flex; flex-direction: row; align-items: center;}
+h1 {margin-left: 15px; font-weight: bold; font-size: 32px;}
+nav {flex-grow: 2; display: flex; align-self: flex-start; justify-content: flex-end;}
+nav a {width: 75px;}
+.logo { width: 75px; height: 75px; border-radius: 50%; background-color: bisque; border: 2px solid black;}
+header div {font-size: 32px; font-weight: bold; display: flex; justify-content: center; align-items: center;}
+.menu {display: none;}
+
+
+main {display: flex; flex-direction: row;}
+main {padding: 15px;}
+article {margin: 15px ; width: 100%; border: 2px solid black; display: flex; flex-direction: column;}
+h2 {height: 50px; width: 50%; font-size: 1.5em; display: flex; justify-content: center; align-items: center;}
+article h2 {align-self: flex-end; background-color: bisque; border-bottom: 2px solid black; border-left: 2px solid black; margin: 0;}
+article p {text-align: justify; padding: 15px;}
+
+footer {height: 100px; background-color: bisque; border-top: 2px solid black;}
+footer p {display: flex; align-items: center; justify-content: center;}
+footer p:nth-child(1) {margin-top: 15px;}
+footer p:nth-child(2) {font-weight: bold; }
+
+.content {
+    min-height: calc(100vh - 70px);
+  }
+  .footer {
+    height: 70px;
+  }
+
+  @media all and (max-width:900px){
+    main {
+        flex-wrap: wrap;
+    }
+
+    h1 {display: none;}
+    nav {display: none;}
+
+    .menu {display: block;}
+    header {justify-content: space-between;}
+  }
