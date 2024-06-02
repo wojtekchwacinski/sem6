@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Wycieczka po USA</name>
+    <description>Trasa wycieczki od 9 września do 19 września 2024 roku.</description>
+
+    <!-- Trasa do Nowego Jorku -->
+    <Placemark>
+      <name>Lotnisko JFK, Nowy Jork</name>
+      <Point>
+        <coordinates>-73.778137,40.641311</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Zwiedzanie Nowego Jorku -->
+    <Placemark>
+      <name>Times Square</name>
+      <Point>
+        <coordinates>-73.985428,40.757974</coordinates>
+      </Point>
+    </Placemark>
+    <!-- Dodatkowe punkty w Nowym Jorku -->
+    <Placemark>
+      <name>Central Park</name>
+      <Point>
+        <coordinates>-73.965354,40.782865</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Muzeum Historii Naturalnej</name>
+      <Point>
+        <coordinates>-73.976225,40.781213</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wieża Wolności</name>
+      <Point>
+        <coordinates>-74.013214,40.703396</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wall Street</name>
+      <Point>
+        <coordinates>-74.009864,40.706207</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brooklyn Bridge</name>
+      <Point>
+        <coordinates>-73.998424,40.705630</coordinates>
+      </Point>
+    </Placemark>
+    <!-- Trasa do Filadelfii -->
+    <Placemark>
+      <name>Filadelfia</name>
+      <Point>
+        <coordinates>-75.163353,39.952583</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Trasa do Waszyngtonu -->
+    <Placemark>
+      <name>Waszyngton</name>
+      <Point>
+        <coordinates>-77.036530,38.897676</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Trasa do Williamsburga -->
+    <Placemark>
+      <name>Williamsburg</name>
+      <Point>
+        <coordinates>-76.704738,37.270700</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Trasa do Richmond -->
+    <Placemark>
+      <name>Richmond</name>
+      <Point>
+        <coordinates>-77.460258,37.540724</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Trasa do Savannah -->
+    <Placemark>
+      <name>Savannah</name>
+      <Point>
+        <coordinates>-81.099834,32.083541</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Trasa do Miami -->
+    <Placemark>
+      <name>Miami</name>
+      <Point>
+        <coordinates>-80.191790,25.761679</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Ścieżki między miastami -->
+    <Path>
+      <extrude>1</extrude>
+      <altitudeMode>absolute</altitudeMode>
+      <coordinates>
+        -73.778137,40.641311,0
+        -75.163353,39.952583,0
+        -77.036530,38.897676,0
+        -76.704738,37.270700,0
+        -77.460258,37.540724,0
+        -81.099834,32.083541,0
+        -80.191790,25.761679,0
+      </coordinates>
+    </Path>
+  </Document>
+</kml>

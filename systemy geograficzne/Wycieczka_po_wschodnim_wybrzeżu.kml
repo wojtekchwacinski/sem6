@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>Zwiedzanie Nowego Jorku</name>
+    <gx:Tour>
+    <!-- Ustawienia odtwarzania -->
+    <gx:Playlist>
+      <!-- Times Square -->
+      <gx:FlyTo>
+        <gx:duration>5</gx:duration>
+        <LookAt>
+          <longitude>-73.985</longitude>
+          <latitude>40.7588889</latitude>
+          <altitude>150</altitude>
+          <altitudeMode>relativeToSeaFloor</altitudeMode> 
+          <heading>20</heading>
+          <tilt>45</tilt>
+          <range>150</range>
+        </LookAt>
+      </gx:FlyTo>
+          <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>     
+      <!-- Central Park -->
+      <gx:FlyTo>
+        <gx:duration>5</gx:duration>
+        <LookAt>
+          <longitude>-73.968285</longitude>
+          <latitude>40.785091</latitude>
+          <altitude>200</altitude>
+           <altitudeMode>relativeToSeaFloor</altitudeMode> 
+          <heading>0</heading>
+          <tilt>85</tilt>
+          <range>2000</range>
+        </LookAt>
+      </gx:FlyTo>
+
+      <gx:FlyTo>
+        <gx:duration>5</gx:duration>
+        <LookAt>
+          <longitude>-73.968285</longitude>
+          <latitude>40.785091</latitude>
+          <altitude>200</altitude>
+          <altitudeMode>relativeToSeaFloor</altitudeMode> 
+          
+          <heading>270</heading>
+          <tilt>85</tilt>
+          <range>2000</range>
+        </LookAt>
+      </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+      <!-- Muzeum Historii Naturalnej -->
+      <gx:FlyTo>
+        <gx:duration>5</gx:duration>
+        <LookAt>
+          <longitude>-73.974187</longitude>
+          <latitude>40.781324</latitude>
+          <altitude>10</altitude>
+          <altitudeMode>relativeToSeaFloor</altitudeMode> 
+          <heading>70</heading>
+          <tilt>80</tilt>
+          <range>250</range>
+        </LookAt>
+      </gx:FlyTo>
+
+
+      <gx:FlyTo>
+        <gx:duration>5</gx:duration>
+        <LookAt>
+          <longitude>-73.974187</longitude>
+          <latitude>40.781324</latitude>
+          <altitude>20</altitude>
+          <altitudeMode>relativeToSeaFloor</altitudeMode> 
+          <heading>290</heading>
+          <tilt>80</tilt>
+          <range>300</range>
+        </LookAt>
+      </gx:FlyTo>
+
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+      <!-- Wieża Wolności -->
+      <gx:FlyTo>
+        <gx:duration>5</gx:duration>
+        <LookAt>
+          <longitude>-74.0445</longitude>
+          <latitude>40.6892</latitude>
+          <altitude>80</altitude>
+          <altitudeMode>relativeToSeaFloor</altitudeMode> 
+          <heading>0</heading>
+          <tilt>70</tilt>
+          <range>300</range>
+        </LookAt>
+      </gx:FlyTo>
+
+      <gx:FlyTo>
+        <gx:duration>5</gx:duration>
+        <LookAt>
+          <longitude>-74.0445</longitude>
+          <latitude>40.6892</latitude>
+          <altitude>80</altitude>
+          <altitudeMode>relativeToSeaFloor</altitudeMode> 
+          <heading>180</heading>
+          <tilt>70</tilt>
+          <range>300</range>
+        </LookAt>
+      </gx:FlyTo>
+      
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+      
+      <!-- Brooklyn Bridge -->
+      <gx:FlyTo>
+        <gx:duration>5</gx:duration>
+        <LookAt>
+          <longitude>-73.9967</longitude>
+          <latitude>40.7061</latitude>
+          <altitude>100</altitude>
+          <altitudeMode>relativeToSeaFloor</altitudeMode> 
+          <heading>0</heading>
+          <tilt>80</tilt>
+          <range>250</range>
+        </LookAt>
+      </gx:FlyTo>
+            <gx:FlyTo>
+        <gx:duration>5</gx:duration>
+        <LookAt>
+          <longitude>-73.9967</longitude>
+          <latitude>40.7061</latitude>
+          <altitude>100</altitude>
+          <altitudeMode>relativeToSeaFloor</altitudeMode> 
+          <heading>180</heading>
+          <tilt>80</tilt>
+          <range>250</range>
+        </LookAt>
+      </gx:FlyTo>
+    
+            <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+<!-- Muzeum Sztuki -->
+        <gx:FlyTo>
+        <gx:duration>5</gx:duration>
+        <LookAt>
+          <longitude>-75.1499</longitude>
+          <latitude>39.9498</latitude>
+          <altitude>20</altitude>
+          <altitudeMode>relativeToSeaFloor</altitudeMode> 
+          <heading>270</heading>
+          <tilt>60</tilt>
+          <range>70</range>
+        </LookAt>
+      </gx:FlyTo>
+
+    <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+      <!-- Muzeum Sztuki -->
+      <gx:FlyTo>
+        <gx:duration>5</gx:duration>
+        <LookAt>
+          <longitude>-75.1762</longitude>
+          <latitude>39.9645</latitude>
+          <altitude>20</altitude>
+          <altitudeMode>relativeToSeaFloor</altitudeMode> 
+          <heading>0</heading>
+          <tilt>45</tilt>
+          <range>70</range>
+        </LookAt>
+      </gx:FlyTo>
+         <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+      <!-- Muzeum Franklina -->
+      <gx:FlyTo>
+        <gx:duration>5</gx:duration>
+        <LookAt>
+          <longitude>-75.1450</longitude>
+          <latitude>39.9480</latitude>
+          <altitude>50</altitude>
+          <altitudeMode>relativeToSeaFloor</altitudeMode> 
+          <heading>0</heading>
+          <tilt>85</tilt>
+          <range>150</range>
+        </LookAt>
+      </gx:FlyTo>
+
+            <gx:FlyTo>
+        <gx:duration>5</gx:duration>
+        <LookAt>
+          <longitude>-75.1450</longitude>
+          <latitude>39.9480</latitude>
+          <altitude>50</altitude>
+          <altitudeMode>relativeToSeaFloor</altitudeMode> 
+          <heading>90</heading>
+          <tilt>85</tilt>
+          <range>150</range>
+        </LookAt>
+      </gx:FlyTo>
+
+             <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+      <!-- Biały Dom -->
+      <gx:FlyTo>
+        <gx:duration>5</gx:duration>
+        <LookAt>
+          <longitude>-77.0369</longitude>
+          <latitude>38.8977</latitude>
+          <altitude>500</altitude>
+          <altitudeMode>relativeToSeaFloor</altitudeMode> 
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>0</range>
+        </LookAt>
+      </gx:FlyTo>
+      <!-- Kapitol -->
+         <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+      <gx:FlyTo>
+        <gx:duration>5</gx:duration>
+        <LookAt>
+          <longitude>-77.0090</longitude>
+          <latitude>38.8895</latitude>
+          <altitude>500</altitude>
+          <altitudeMode>relativeToSeaFloor</altitudeMode> 
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>0</range>
+        </LookAt>
+      </gx:FlyTo>
+      <!-- National Mall -->
+
+         <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+      <gx:FlyTo>
+        <gx:duration>5</gx:duration>
+        <LookAt>
+          <longitude>-77.0365</longitude>
+          <latitude>38.8895</latitude>
+          <altitude>500</altitude>
+          <altitudeMode>relativeToSeaFloor</altitudeMode> 
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>0</range>
+        </LookAt>
+      </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+      <!-- Pomnik Lincolna -->
+      <gx:FlyTo>
+        <gx:duration>5</gx:duration>
+        <LookAt>
+          <longitude>-77.0502</longitude>
+          <latitude>38.8895</latitude>
+          <altitude>500</altitude>
+          <altitudeMode>relativeToSeaFloor</altitudeMode> 
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>0</range>
+        </LookAt>
+      </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+    <!--williamsburg-->
+        <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-76.698333</longitude>
+            <latitude>37.279167</latitude>
+            <altitude>200</altitude>
+            <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>0</heading>
+            <tilt>45</tilt>
+            <range>500</range>
+          </LookAt>
+        </gx:FlyTo>
+                       <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+                <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-76.698333</longitude>
+            <latitude>37.279167</latitude>
+            <altitude>200</altitude>
+            <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>180</heading>
+            <tilt>45</tilt>
+            <range>500</range>
+          </LookAt>
+        </gx:FlyTo>
+                       <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+        <!-- Richmond virginia capitol-->
+        <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-77.4336111</longitude>
+            <latitude>37.53861111111111</latitude>
+            <altitude>200</altitude>
+            
+            <heading>45</heading>
+            <tilt>45</tilt>
+            <range>300</range>
+          </LookAt>
+        </gx:FlyTo>
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+                <!-- Richmond muzeum sztuki-->
+        <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-77.4747222</longitude>
+            <latitude>37.55611111111111</latitude>
+            <altitude>20</altitude>
+            <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>0</heading>
+            <tilt>80</tilt>
+            <range>250</range>
+          </LookAt>
+        </gx:FlyTo>
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+            <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-77.4747222</longitude>
+            <latitude>37.55611111111111</latitude>
+            <altitude>20</altitude>
+            <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>90</heading>
+            <tilt>80</tilt>
+            <range>200</range>
+          </LookAt>
+        </gx:FlyTo>
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+                <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-77.4747222</longitude>
+            <latitude>37.55611111111111</latitude>
+            <altitude>20</altitude>
+            <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>180</heading>
+            <tilt>80</tilt>
+            <range>220</range>
+          </LookAt>
+        </gx:FlyTo>
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+                <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-77.4747222</longitude>
+            <latitude>37.55611111111111</latitude>
+            <altitude>20</altitude>
+            <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>270</heading>
+            <tilt>80</tilt>
+            <range>200</range>
+          </LookAt>
+        </gx:FlyTo>
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+
+                <!-- maymont park Richmond -->
+        <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-77.4748</longitude>
+            <latitude>37.5359</latitude>
+            <altitude>2000</altitude>
+             <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>0</heading>
+            <tilt>0</tilt>
+            <range>0</range>
+          </LookAt>
+        </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+<!--savannach-->
+
+
+
+<!--river street-->
+       <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-81.0898</longitude>
+            <latitude>32.0814</latitude>
+            <altitude>20</altitude>
+             <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>180</heading>
+            <tilt>80</tilt>
+            <range>300</range>
+          </LookAt>
+        </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+<!--park-->
+           <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-81.0966</longitude>
+            <latitude>32.0708</latitude>
+            <altitude>200</altitude>
+             
+            <heading>0</heading>
+            <tilt>80</tilt>
+            <range>1000</range>
+          </LookAt>
+        </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+
+<!--cmentary-->
+           <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-81.0460</longitude>
+            <latitude>32.0439</latitude>
+            <altitude>1000</altitude>
+             <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>0</heading>
+            <tilt>0</tilt>
+            <range>0</range>
+          </LookAt>
+        </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+<!--miamii beach -->
+               <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-80.1300</longitude>
+            <latitude>25.7826</latitude>
+            <altitude>100</altitude>
+             <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>220</heading>
+            <tilt>80</tilt>
+            <range>1000</range>
+          </LookAt>
+        </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+                   <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-80.1300</longitude>
+            <latitude>25.7826</latitude>
+            <altitude>100</altitude>
+             <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>0</heading>
+            <tilt>80</tilt>
+            <range>1000</range>
+          </LookAt>
+        </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+<!--wynwood walls-->
+               <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-80.2016</longitude>
+            <latitude>25.8011</latitude>
+            <altitude>50</altitude>
+             <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>0</heading>
+            <tilt>80</tilt>
+            <range>400</range>
+          </LookAt>
+        </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+                   <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-80.2016</longitude>
+            <latitude>25.8011</latitude>
+            <altitude>50</altitude>
+             <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>90</heading>
+            <tilt>80</tilt>
+            <range>400</range>
+          </LookAt>
+        </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+                   <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-80.2016</longitude>
+            <latitude>25.8011</latitude>
+            <altitude>50</altitude>
+             <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>180</heading>
+            <tilt>80</tilt>
+            <range>400</range>
+          </LookAt>
+        </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+    
+                   <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-80.2016</longitude>
+            <latitude>25.8011</latitude>
+            <altitude>50</altitude>
+             <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>290</heading>
+            <tilt>80</tilt>
+            <range>400</range>
+          </LookAt>
+        </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+
+<!--little havana-->
+               <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-80.2194</longitude>
+            <latitude>25.7650</latitude>
+            <altitude>40</altitude>
+             <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>0</heading>
+            <tilt>70</tilt>
+            <range>0</range>
+          </LookAt>
+        </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+               <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-80.2194</longitude>
+            <latitude>25.7650</latitude>
+            <altitude>40</altitude>
+             <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>270</heading>
+            <tilt>70</tilt>
+            <range>0</range>
+          </LookAt>
+        </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+                   <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-80.2194</longitude>
+            <latitude>25.7650</latitude>
+            <altitude>40</altitude>
+             <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>90</heading>
+            <tilt>70</tilt>
+            <range>0</range>
+          </LookAt>
+        </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+<!--Everglades National Park-->
+               <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-80.9336</longitude>
+            <latitude>25.2866</latitude>
+            <altitude>26000</altitude>
+             <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>0</heading>
+            <tilt>0</tilt>
+            <range>0</range>
+          </LookAt>
+        </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+<!--Vizcaya Museum and Gardens-->
+               <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-80.2105</longitude>
+            <latitude>25.7449</latitude>
+            <altitude>20</altitude>
+             <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>0</heading>
+            <tilt>80</tilt>
+            <range>200</range>
+          </LookAt>
+        </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+               <gx:FlyTo>
+          <gx:duration>5</gx:duration>
+          <LookAt>
+            <longitude>-80.2105</longitude>
+            <latitude>25.7449</latitude>
+            <altitude>20</altitude>
+             <altitudeMode>relativeToSeaFloor</altitudeMode> 
+            <heading>320</heading>
+            <tilt>80</tilt>
+            <range>300</range>
+          </LookAt>
+        </gx:FlyTo>
+
+               <gx:Wait>
+        <gx:duration>2.0</gx:duration>
+    </gx:Wait>
+
+
+
+    </gx:Playlist>
+  </gx:Tour>
+ 
+
+
+    <!-- Times Square -->
+    <Placemark>
+      <name>Times Square</name>
+      <description><![CDATA[
+      <h1>Times Square</h1>
+      <p>Times Square to ikoniczne miejsce w Nowym Jorku, pełne jaskrawych neonów, sklepów i teatrów.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Times_Square" target="_blank">Czytaj więcej</a></p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.985,40.7588889,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <!-- Central Park -->
+    <Placemark>
+      <name>Central Park</name>
+      <description><![CDATA[
+      <h1>Central Park</h1>
+      <p>Central Park jest największym parkiem miejskim w Nowym Jorku. Jest popularnym miejscem rekreacji i odpoczynku dla mieszkańców miasta oraz turystów.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Central_Park" target="_blank">Czytaj więcej</a></p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.968285,40.785091,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <!-- Muzeum Historii Naturalnej -->
+    <Placemark>
+      <name>Muzeum Historii Naturalnej</name>
+      <description><![CDATA[
+      <h1>Muzeum Historii Naturalnej</h1>
+      <p>Muzeum Historii Naturalnej w Nowym Jorku jest jednym z największych muzeów na świecie. Posiada bogate zbiory skamieniałości, minerałów, eksponatów związanych z historią życia na Ziemi.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Muzeum_Historii_Naturalnej_w_Nowym_Jorku" target="_blank">Czytaj więcej</a></p>
+      ]]></description>
+      <Point>
+        <coordinates>-73.974187,40.781324,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <!-- Wieża Wolności -->
+    <Placemark>
+      <name>Wieża Wolności</name>
+      <description><![CDATA[
+      <h1>Wieża Wolności</h1>
+      <p>Wieża Wolności, oficjalnie znana jako One World Trade Center, jest najwyższym budynkiem na Manhattanie i w całych Stanach Zjednoczonych. Znajduje się na terenie, gdzie kiedyś stały bliźniacze Wieże World Trade Center.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/One_World_Trade_Center" target="_blank">Czytaj więcej</a></p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.0445,40.6892,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <!-- Wall Street -->
+    <Placemark>
+      <name>Wall Street</name>
+      <description><![CDATA[
+      <h1>Wall Street</h1>
+      <p>Wall Street to jedna z najważniejszych ulic w Nowym Jorku i w Stanach Zjednoczonych. Jest siedzibą wielu instytucji finansowych i giełdy papierów wartościowych.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Wall_Street" target="_blank">Czytaj więcej</a></p>
+      ]]></description>
+      <Point>
+        <coordinates>-74.0113,40.7072,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <!-- Brooklyn Bridge -->
+  <Placemark>
+    <name>Brooklyn Bridge</name>
+    <description><![CDATA[
+    <h1>Brooklyn Bridge</h1>
+    <p>Most Brooklyn to jeden z najstarszych i najbardziej znanych mostów wiszących na świecie. Łączy on dzielnicę Manhattan z dzielnicą Brooklyn w Nowym Jorku.</p>
+    <p><a href="https://pl.wikipedia.org/wiki/Most_Brooklyn" target="_blank">Czytaj więcej</a></p>
+    ]]></description>
+    <Point>
+      <coordinates>-73.9967,40.7061,0</coordinates>
+    </Point>
+  </Placemark>
+    <!-- Dzwon Wolności -->
+  <Placemark>
+    <name>Dzwon Wolności</name>
+    <description><![CDATA[
+      <h1>Dzwon Wolności</h1>
+      <p>Zabytkowy dzwon w Filadelfii.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Dzwon_Wolno%C5%9Bci" target="_blank">Czytaj więcej</a></p>
+    ]]></description>
+    <Point>
+      <coordinates>-75.1499,39.9498,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <!-- Muzeum Sztuki -->
+  <Placemark>
+    <name>Muzeum Sztuki</name>
+    <description><![CDATA[
+      <h1>Muzeum Sztuki</h1>
+      <p>Muzeum sztuki w Filadelfii.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Muzeum_Sztuki_w_Filadelfii" target="_blank">Czytaj więcej</a></p>
+    ]]></description>
+    <Point>
+      <coordinates>-75.1762,39.9645,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <!-- Muzeum Franklina -->
+  <Placemark>
+    <name>Muzeum Franklina</name>
+    <description><![CDATA[
+      <h1>Muzeum Franklina</h1>
+      <p>Muzeum poświęcone Benjaminowi Franklinowi w Filadelfii.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Muzeum_Benjamina_Franklina" target="_blank">Czytaj więcej</a></p>
+    ]]></description>
+    <Point>
+      <coordinates>-75.1450,39.9480,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <!-- Biały Dom -->
+  <Placemark>
+    <name>Biały Dom</name>
+    <description><![CDATA[
+      <h1>Biały Dom</h1>
+      <p>Oficjalna rezydencja prezydenta USA w Waszyngtonie.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Bia%C5%82y_Dom" target="_blank">Czytaj więcej</a></p>
+    ]]></description>
+    <Point>
+      <coordinates>-77.0369,38.8977,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <!-- Kapitol -->
+  <Placemark>
+    <name>Kapitol</name>
+    <description><![CDATA[
+      <h1>Kapitol</h1>
+      <p>Siedziba Kongresu Stanów Zjednoczonych w Waszyngtonie.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Kapitol_w_Waszyngtonie" target="_blank">Czytaj więcej</a></p>
+    ]]></description>
+    <Point>
+      <coordinates>-77.0090,38.8895,0</coordinates>
+    </Point>
+  </Placemark>
+  
+  <!-- National Mall -->
+  <Placemark>
+    <name>National Mall</name>
+    <description><![CDATA[
+      <h1>N</h1>
+      <p>National Mall to obszar w Waszyngtonie, DC, obejmujący wiele historycznych miejsc.</p>
+      <p><a href="https://en.wikipedia.org/wiki/National_Mall" target="_blank">Czytaj więcej</a></p>
+    ]]></description>
+    <Point>
+      <coordinates>-77.0365,38.8895,0</coordinates>
+    </Point>
+  </Placemark>
+  <!-- Pomnik Lincolna -->
+  <Placemark>
+    <name>Pomnik Lincolna</name>
+    <description><![CDATA[
+      <h1>Pomnik Lincolna</h1>
+      <p>Pomnik ku czci Abrahama Lincolna, 16. prezydenta USA.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Pomnik_Lincolna_w_Waszyngtonie" target="_blank">Czytaj więcej</a></p>
+    ]]></description>
+    <Point>
+      <coordinates>-77.0502,38.8895,0</coordinates>
+    </Point>
+  </Placemark>
+
+
+
+
+
+
+      <Placemark>
+      <name>Colonial Williamsburg</name>
+      <description><![CDATA[
+      <h1>Colonial Williamsburg</h1>
+      <p>Colonial Williamsburg to historyczne miasto z rekonstrukcją życia kolonialnego.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Colonial_Williamsburg" target="_blank">Czytaj więcej</a></p>
+      ]]></description>
+      <Point>
+        <coordinates>-76.698333,37.279167,0</coordinates>
+      </Point>
+    </Placemark>
+
+
+    <!-- Richmond -->
+    <Placemark>
+      <name>Muzeum Sztuki w Richmond</name>
+      <description><![CDATA[
+      <h1>Muzeum Sztuki w Richmond</h1>
+      <p>Muzeum Sztuki w Richmond to jedno z najważniejszych muzeów sztuki w Wirginii.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Virginia_Museum_of_Fine_Arts" target="_blank">Czytaj więcej</a></p>
+      ]]></description>
+      <Point>
+        <coordinates>-77.4747222,37.55611111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Virginia Capitol</name>
+      <description><![CDATA[
+      <h1>Virginia Capitol</h1>
+      <p>Virginia Capitol to budynek, w którym mieści się Zgromadzenie Generalne Wirginii.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Virginia_State_Capitol" target="_blank">Czytaj więcej</a></p>
+      ]]></description>
+      <Point>
+        <coordinates>-77.4336111,37.53861111111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maymont Park</name>
+      <description><![CDATA[
+      <h1>Maymont Park</h1>
+      <p>Maymont Park to historyczny park i muzeum w Richmond.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Maymont" target="_blank">Czytaj więcej</a></p>
+      ]]></description>
+      <Point>
+        <coordinates>-77.4748,37.5359,0</coordinates>
+      </Point>
+    </Placemark>
+
+  <Placemark>
+      <name>River Street</name>
+      <description><![CDATA[
+      <h1>River Street</h1>
+      <p>River Street to jedna z głównych ulic Savannah, znana z pięknych widoków na rzekę i licznych sklepów.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/River_Street_(Savannah)" target="_blank">Czytaj więcej</a></p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.0898,32.0814,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Forsyth Park</name>
+      <description><![CDATA[
+      <h1>Forsyth Park</h1>
+      <p>Forsyth Park to jeden z największych i najpiękniejszych parków w Savannah.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Forsyth_Park" target="_blank">Czytaj więcej</a></p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.0966,32.0708,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonaventure Cemetery</name>
+      <description><![CDATA[
+      <h1>Bonaventure Cemetery</h1>
+      <p>Bonaventure Cemetery to zabytkowy cmentarz w Savannah, znany z pięknych pomników i spokojnej atmosfery.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Bonaventure_Cemetery" target="_blank">Czytaj więcej</a></p>
+      ]]></description>
+      <Point>
+        <coordinates>-81.0460,32.0439,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Beach</name>
+      <description><![CDATA[
+      <h1>South Beach</h1>
+      <p>South Beach to popularna dzielnica Miami Beach, znana z plaż, życia nocnego i art deco.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/South_Beach" target="_blank">Czytaj więcej</a></p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.1300,25.7826,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wynwood Walls</name>
+      <description><![CDATA[
+      <h1>Wynwood Walls</h1>
+      <p>Wynwood Walls to zespół murali i graffiti w dzielnicy Wynwood w Miami.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Wynwood" target="_blank">Czytaj więcej</a></p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.2016,25.8011,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Little Havana</name>
+      <description><![CDATA[
+      <h1>Little Havana</h1>
+      <p>Little Havana to dzielnica Miami zamieszkana głównie przez społeczność kubańską.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Little_Havana" target="_blank">Czytaj więcej</a></p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.2194,25.7650,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Everglades National Park</name>
+      <description><![CDATA[
+      <h1>Everglades National Park</h1>
+      <p>Everglades National Park to park narodowy w południowej Florydzie, znany z unikalnych ekosystemów i rejsów łodzią.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Everglades_National_Park" target="_blank">Czytaj więcej</a></p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.9336,25.2866,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vizcaya Museum and Gardens</name>
+      <description><![CDATA[
+      <h1>Vizcaya Museum and Gardens</h1>
+      <p>Vizcaya Museum and Gardens to historyczna willa i ogród w Miami.</p>
+      <p><a href="https://pl.wikipedia.org/wiki/Vizcaya_Museum_and_Gardens" target="_blank">Czytaj więcej</a></p>
+      ]]></description>
+      <Point>
+        <coordinates>-80.2105,25.7449,0</coordinates>
+      </Point>
+    </Placemark>
+
+  
+</Document>
+</kml>
